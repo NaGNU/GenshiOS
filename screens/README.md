@@ -1,0 +1,1 @@
+# Directory to screenshots GenshiLinux
