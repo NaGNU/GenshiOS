@@ -1,2 +1,2 @@
-# buildx
+# GenshiLinux
 NaGNU/Linux system
