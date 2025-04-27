@@ -2,5 +2,5 @@
 
 void kmain() {
     clear_screen();
-    print("Welcome to ForestOS!\n");
+    print("Welcome to Genshi!\n");
 }
