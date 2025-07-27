@@ -3,8 +3,6 @@ NaGNU/OS system
 
 How to testing GenshiOS!?
 ``` sh
-sudo pacman -S qemu-full nasm gcc
-cd kernel/
 make all
 make run
 ```
