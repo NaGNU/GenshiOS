@@ -1,4 +1,4 @@
-# GenshiOS
+# RegnacityOS
 NaGNU/OS system
 
 **Dependencies**
